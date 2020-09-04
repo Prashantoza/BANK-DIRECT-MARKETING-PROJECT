@@ -1,4 +1,4 @@
-# OZa
+# BANK- DIRECT- MARKETING-PROJECT
 Main Objective: Increase the effectiveness of the bank's telemarketing campaign
 
 Introduction :  
