@@ -23,16 +23,6 @@ It will increase the efficiency of the bank’s telemarketing campaign, saving t
 It prevents some clients from receiving undesirable advertisements, raising customer satisfaction. 
  
  
- 
-Recommendations
-1. More appropriate timing
-The previous analysis points out that March, September, October and December had the highest success rates. Nevertheless, more data should be collected and analyzed to make sure that this seasonal effect is constant over time. 
-2. Smarter marketing design
-By targeting the right customers, the bank will have more and more positive responses which will prevent imbalance in the original dataset. Hence, more accurate information will be presented to the bank for improving the subscriptions. 
-3. Better services provision
-With a more granular understanding of its customer base, the bank has the ability to provide better banking services. For example, marital status and occupation reveal a customer's life stage while loan status indicates his/her overall risk profile. 
-
-
 Solutions for the Next Marketing Campaign (Conclusion):
 1) Months of Marketing Activity: We saw that the the month of highest level of marketing activity was the month of May. However, this was the month that potential clients tended to reject term deposits offers (Lowest effective rate: -34.49%). For the next marketing campaign, it will be wise for the bank to focus the marketing campaign during the months of March, September, October and December. (December should be under consideration because it was the month with the lowest marketing activity, there might be a reason why december is the lowest.)
 
